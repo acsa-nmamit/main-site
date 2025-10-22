@@ -1,6 +1,7 @@
 # ACSA Site
 
 A modern web application for the ACSA (Association of Computer Science and Applications) organization.
+- made by iotserver24
 
 ## Overview
 
